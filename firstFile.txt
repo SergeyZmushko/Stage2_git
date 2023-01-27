@@ -6,5 +6,5 @@ Added firstFile
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
+Added firstFile
+Added 
