@@ -4,6 +4,11 @@ Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt 2
+Added secondFile
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt to git_1
+Added secondFile.txt
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
